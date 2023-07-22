@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   
+    /*position: relative;*/
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    background: url(../images/hotair_ballon.jpg);
+    background-size: cover;
+    /*background-position: center;*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    position: relative;
+    width: 98%;
+    height: 87vh;
+    border: 5px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+
+/* Nav bar*/
+.topnav {
+    width: 98%;
+    overflow: hidden;
+    background-color: #333;
+    margin-top: 2000;
+    position: absolute;
+    margin-top: -450px;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 25px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .topnav-right {
+    float: right;
+    
+}
+ 
+
+
+/*.logout{
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    padding: 10px 20px;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: #fff;
+    background: none;
+    text-decoration: underline;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}*/
+
+
+.greeting{
+    font-family: 'Georgia';
+    font-size: 70px;
+    color: #fff;
+    font-weight: 800;
+    text-transform: capitalize;
+    display: none;
+}
+
+
+.right-side{
+  font-size: 15px;
+  margin-right: -550px;
+  background: #333;
+  border-radius: 10px;
+  color: aqua;
+  
+}
+
+
+.right-side a {
+  
+  color: #f2f2f2;
+  text-align: center;
+  
+  font-size: 25px;
+}
+
+.right-side a:hover {
+  background-color: #ddd;
+  color: black;
+}
