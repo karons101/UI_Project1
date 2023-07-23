@@ -1,14 +1,12 @@
 PROJECT DELIVERABLE 1  
 
-23/July/2023 
+23/July/2023  
 
  
 
 H3 hospital needs to come up with a system to enable its clients and patients to get registered, enter their details, medical records and update their information.  
 
-  This will enable the medical doctors and administration keep up and be on top of all necessary information about each  
-
-client or patient with a safe online user interface and storage. Due to past experience where paper records get lost or worn out. 
+  This will enable the medical doctors and administration keep up and be on top of all necessary information about each client or patient with a safe online user interface and storage. Due to past experience where paper records get lost or worn out. 
 
   
 
