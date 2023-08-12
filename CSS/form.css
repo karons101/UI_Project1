@@ -30,6 +30,7 @@ body{
     height: auto;
     color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
     
 }
 
@@ -87,7 +88,8 @@ input:focus::placeholder{
     text-transform: capitalize;    
     text-decoration: none;
    /* color: rgba(255, 255, 255, 0.3);*/
-    font-size: large;   
+   color: #000;
+    font-size: 22px;   
     display: block;
     margin: 35px auto;
 }
@@ -124,7 +126,7 @@ input:focus::placeholder{
     margin-left: -220px;
     background: grey;
     border-radius: 15px;
-    font-size: 15px;
+    font-size: 16px;
 }
 
  p{
